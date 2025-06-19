@@ -1,0 +1,46 @@
+.padbutt{
+    padding-top: 24px;
+    padding-left:64px ;
+     padding-right:64px ;
+}
+.imgshow {
+  width: 100%;
+  max-width: 373px;
+  height: auto;
+  margin-bottom: 40px;
+  border-radius: 16px;
+}
+.font-p {
+  font-family: Montserrat;
+  font-weight: 600;
+  font-size: 3.75rem;
+  line-height: 100%;
+  text-transform: capitalize;
+}
+
+.font-doler {
+  font-family: Montserrat;
+  font-weight: 500;
+  font-size: 2.5rem;
+  line-height: 100%;
+  color: rgba(128, 128, 128, 0.55);
+  text-transform: capitalize;
+}
+
+
+@media (max-width: 992px) {
+  .font-p {
+    font-size: 28px;
+    text-align: center;
+  }
+
+  .font-doler {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .padbutt {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}

@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+   box-sizing:border-box;
+   font-family: Montserrat;
+}
+#root {
+--BrightOrange:#FEAF00;
+--SaffronYellow:#F8D442;
+--Linen :#F2EAE1;
+--Graywhait:#E5E5E5;
+--LightGray:#CDCDCD;
+--Gray:#6C6C6C;
+ --bs-box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.10);
+--Red:#FE0000;
+--Redlight:#fe00009f;
+}
+.bg-Auth{
+background: linear-gradient(71.17deg, var(--BrightOrange) 19.35%,var(--SaffronYellow) 90.12%);
+}
+.bg-Linen{
+    background-color:var(--Linen) ;
+}
+.line-height{
+    line-height: 1; 
+}
+
+.bg-delet{
+    backdrop-filter: blur(30px)
+}
+.bg-deletbtn{
+    background-color: var(--BrightOrange);
+
+}
+.fontsherch{
+font-weight: 400;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+color:var(--Graywhait) ;
+border: 1px solid var(--Graywhait) ;
+}

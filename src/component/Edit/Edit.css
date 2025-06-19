@@ -1,0 +1,44 @@
+.naminput{
+    font-family: Montserrat;
+font-weight: 500 !important;
+font-size: 32px !important;
+line-height: 100% !important;
+color: var(--Gray);}
+.btn-form{
+    width: 199px;
+height: 61px;
+border-radius: 4px;
+   font-family: Montserrat;
+font-weight: 500 !important;
+font-size: 32px !important;
+line-height: 100% !important;
+}
+.btn-formco{
+padding-top:120px ;
+}
+.form-inp{
+width: 415.8736877441406px;
+height: 44px;
+border-radius: 4px;
+border: 1px solid var(--Graywhait);
+}
+.padinp{
+    padding-top: 64px;
+}
+.padform{
+      padding-top: 76px;
+}
+.imgedit{
+      width: 547px !important;
+  height: 209px !important;
+    overflow: hidden;
+}
+.imgedititem{
+    width: 208px !important;
+height: 208px !important;
+             /* width: 100% !important;
+    height: 100%  !important; */
+          object-fit: cover  !important;
+          border-Radius: 8px ;
+    
+}

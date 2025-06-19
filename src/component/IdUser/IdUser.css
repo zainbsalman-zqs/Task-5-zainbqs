@@ -1,0 +1,13 @@
+.user{
+font-family: Montserrat;
+font-size: 17px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.img-user{
+margin-top: 54px ;
+margin-bottom: 20px ;
+width: 128px !important;
+height: 128px !important;
+object-fit: cover;
+}

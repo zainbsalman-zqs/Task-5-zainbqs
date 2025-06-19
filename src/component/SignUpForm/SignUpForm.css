@@ -1,0 +1,68 @@
+.x {
+    width: 100%;
+    max-width: 476px;
+    border: 1px solid #E5E5E5;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 100%;
+    color: var(--Gray);
+}
+
+.color-form {
+    color: var(--Gray) !important;
+}
+
+.color-form::placeholder {
+    color: var(--LightGray);
+}
+
+.z {
+    height: 44px;
+}
+
+.btn {
+    background-color: #FEAF00;
+    border-color:#FEAF00;
+}
+
+.form-control:focus {
+    border-color: var(--BrightOrange);
+    box-shadow: 0 0 0 0.25rem rgba(241, 165, 1, 0.301);
+    outline: none;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.color-linke {
+    color: #FEAF00;
+}
+
+.btn:hover {
+    border-color: var(--SaffronYellow) !important;
+    background-color: var(--SaffronYellow) !important;
+
+}
+
+.pad {
+    padding-top: 42px;
+    padding-bottom: 42px;
+}
+
+.bord {
+    width: 100px !important;
+    height: 100px !important;
+    background-color: #F8F8FF;
+
+    border: 1px dashed #384EB74D;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+
+.imfil {
+  max-width: 100%;
+  height: auto;
+  cursor: pointer;
+}

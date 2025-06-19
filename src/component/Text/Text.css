@@ -1,0 +1,17 @@
+.font{
+    font-family: Montserrat;
+font-weight: 600;
+font-size: 22px;
+line-height: 100%;
+letter-spacing: 0%;
+text-transform: uppercase;
+color: #000;
+}
+.font1{
+    font-family: Montserrat;
+font-weight: 400;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+color:#6C6C6C;
+}

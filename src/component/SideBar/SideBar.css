@@ -1,0 +1,15 @@
+.sid{
+    width:270px;
+padding-top: 35px;
+}
+.logo{
+height: 23px;
+padding-left:12px ;
+border-left: 4px solid var(--SaffronYellow);
+}
+
+.nav{
+ padding-left: 39px;
+ padding-right: 38px;
+
+}
